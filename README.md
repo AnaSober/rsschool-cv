@@ -1,2 +1,2 @@
 # rsschool-cv 
-# https://anatoliysoberman.github.io/rsschool-cv/cv
+# https://anasober.github.io/rsschool-cv/cv
