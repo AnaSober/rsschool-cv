@@ -1,3 +1,3 @@
 # Anatoliy Soberman
 
-## Minsk
+## Minsk Belarus
